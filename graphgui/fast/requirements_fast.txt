@@ -1,0 +1,5 @@
+# Compatible with the Python 3.9 Windows environment shown in the user's screenshot.
+numpy>=1.23,<2.0
+PySide6==6.4.2
+pyqtgraph==0.12.4
+psycopg2-binary>=2.9.9,<3

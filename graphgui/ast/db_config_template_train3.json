@@ -1,0 +1,11 @@
+{
+  "host": "YOUR_POSTGRES_HOST",
+  "port": 5432,
+  "dbname": "ofc_daqhat_test",
+  "user": "YOUR_POSTGRES_USERNAME",
+  "password": "YOUR_POSTGRES_PASSWORD",
+  "schema": "public",
+  "table": "test_adxl",
+  "train_no": 3,
+  "order_by": null
+}

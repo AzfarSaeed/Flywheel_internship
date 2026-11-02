@@ -1,0 +1,12 @@
+{
+  "host": "23.100.44.121",
+  "port": 5455,
+  "dbname": "ofc_daqhat_test",
+  "user": "pisql",
+  "password": "V@s0l20G20#e",
+  "schema": "public",
+  "table": "test_adxl",
+  "train_no": 3,
+  "order_by": "timestamp",
+  "refresh_seconds": 0
+}
